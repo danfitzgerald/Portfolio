@@ -1,4 +1,4 @@
-My portfolio is now hosted at my website at [dfitzgerald.net](https://www.dfitzgerald.net/)
+My portfolio is now hosted at my website @ [dfitzgerald.net](https://www.dfitzgerald.net/).
 
 # Portfolio
 Listed below is a just a small slice of projects I have completed as part of my Computer Science degree at Memorial University of Newfoundland.
