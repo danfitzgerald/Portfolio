@@ -1,3 +1,5 @@
+My portfolio is now hosted at my website at [dfitzgerald.net](https://www.dfitzgerald.net/)
+
 # Portfolio
 Listed below is a just a small slice of projects I have completed as part of my Computer Science degree at Memorial University of Newfoundland.
 For a list of courses I have completed during my degree that are 3rd year and beyond please click [this link](https://www.cs.mun.ca/~dfitzgerald/).
